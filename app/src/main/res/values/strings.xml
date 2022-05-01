@@ -1,0 +1,21 @@
+<resources>
+    <!--String Resources for XML-->
+    <string name="app_name">NomidosPizza</string>
+    <string name="heading_text_view">Nomidos Pizza</string>
+    <string name="name">Name</string>
+    <string name="topping_heading">Toppings</string>
+    <string name="first_topping">Cheese Topping</string>
+    <string name="second_topping">Chilli Topping</string>
+    <string name="quantity_heading">Quantity</string>
+    <string name="minus_symbol">-</string>
+    <string name="plus_symbol">+</string>
+    <string name="initial_quantity">0</string>
+    <string name="submit_order_button_text">Order</string>
+    <string name="pizza_image_description_text">Pizza Image</string>
+
+    <!--String Resources for JAVA-->
+    <string name="Cheese_topping">Cheese Topping ? </string>
+    <string name="Chilli_topping">Chilli Topping ? </string>
+    <string name="grand_total">Grand Total : </string>
+    <string name="thank_you_message">Thank You!</string>
+</resources>
